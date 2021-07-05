@@ -1,6 +1,6 @@
 # Bayesian network for COVID-19 vaccines adverse reactions
 ### *Fundamentals of Artificial Intelligence and Knowledge Representation - Module 3*
-#### *Alma Mater Studiorum Università di Bologna - a.a 20/21*
+#### *Alma Mater Studiorum University of Bologna - a.a 20/21*
 
 ##### **Author:** [Emmanuele Bollino](https://www.linkedin.com/in/emmanuele-bollino/)
 
@@ -27,3 +27,8 @@ that the patient has for sure an adverse reaction.
 For the sake of simplicity, data contained in the database have hardly been simplified, loosing important information
 about the domain. Because of this, the results are considered over simplistic and not reliable. This project only shows
 that using probabilistic graphical models for this domain is possible.
+
+## Repository structure
+- Report.pdf contains the report of this projec
+- bn_covid_vaccines.ipynb contains the Jupyter notebook with the implementation of this project
+- A folder data/ should be created in the root of the project and fullfilled with VAERS csv files
